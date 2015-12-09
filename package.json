@@ -25,19 +25,17 @@
     "babel-runtime": "^5.8.0",
     "cross-env": "^1.0.5",
     "css-loader": "^0.23.0",
-    "express": "^4.13.3",
     "file-loader": "^0.8.4",
     "jade": "^1.11.0",
     "path": "^0.12.7",
     "style-loader": "^0.13.0",
     "stylus-loader": "^1.4.0",
     "template-html-loader": "0.0.3",
+    "vue": "^1.0.10",
     "vue-hot-reload-api": "^1.2.0",
     "vue-html-loader": "^1.0.0",
     "vue-loader": "^7.2.0",
     "webpack": "^1.12.2",
-    "webpack-dev-middleware": "^1.2.0",
-    "webpack-dev-server": "^1.12.0",
-    "webpack-hot-middleware": "^2.0.0"
+    "webpack-dev-server": "^1.12.1"
   }
 }

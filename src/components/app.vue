@@ -9,7 +9,7 @@
     <hr />
 
     <div>
-    	<button v-on:click="handleClick">点击我修改propsMsg的值</button>
+    	<button v-on:click="handleClick">dfadsfsad点击我修改propsMsg的值</button>
 			<vue-component-two :props-msg="msg" v-on:child-msg="childEvent" />
     </div>
   </div>
